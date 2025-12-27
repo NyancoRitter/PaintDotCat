@@ -14,6 +14,8 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <ApplicationIcon>PaintDotCat.ico</ApplicationIcon>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <Copyright>Copyright ©  2025 NyancoRitter</Copyright>
+    <Company>NyancoRitter</Company>
 
   </PropertyGroup>
 
